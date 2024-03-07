@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{77AA35BF-32EB-4433-BD59-DE9588F447F5}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="PLCLogger.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="PLCLogger">
+        <MSBuild Projects="PLCLogger.dproj"/>
+    </Target>
+    <Target Name="PLCLogger:Clean">
+        <MSBuild Projects="PLCLogger.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PLCLogger:Make">
+        <MSBuild Projects="PLCLogger.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="PLCLogger"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="PLCLogger:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="PLCLogger:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

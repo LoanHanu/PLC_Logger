@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/01 21:23:44.000.645,W:\Software\Projekte\PLC_Logger\ChildWin.pas=W:\Software\Projekte\PLC_Logger\LogWin.pas</Transaction>
+    <Transaction>2023/09/01 21:23:44.000.646,W:\Software\Projekte\PLC_Logger\ChildWin.dfm=W:\Software\Projekte\PLC_Logger\LogWin.dfm</Transaction>
+    <Transaction>2023/09/01 21:26:03.000.132,=W:\Software\Projekte\PLC_Logger\ChildWin.pas</Transaction>
+    <Transaction>2023/09/01 23:04:00.000.261,W:\Software\Projekte\PLC_Logger\PLCLogger.dproj=W:\Software\Projekte\PLC_Logger\MDIAPP.dproj</Transaction>
+    <Transaction>2023/09/01 23:08:26.000.910,=c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32\DualList.PAS</Transaction>
+    <Transaction>2023/09/01 23:08:27.000.085,=W:\Software\Projekte\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 23:09:26.000.877,=W:\Software\Projekte\PLC_Logger\Unit2.pas</Transaction>
+    <Transaction>2023/09/01 23:09:26.000.722,=c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32\OKCANCL2.PAS</Transaction>
+    <Transaction>2023/09/01 23:11:06.000.496,W:\Software\Projekte\PLC_Logger\fConfiguration.dfm=W:\Software\Projekte\PLC_Logger\Unit2.dfm</Transaction>
+    <Transaction>2023/09/01 23:11:06.000.496,W:\Software\Projekte\PLC_Logger\fConfiguration.pas=W:\Software\Projekte\PLC_Logger\Unit2.pas</Transaction>
+    <Transaction>2023/10/02 15:28:45.000.049,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 15:32:59.000.319,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\uConfig.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 15:42:40.000.016,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\fConfiguration.pas=</Transaction>
+    <Transaction>2023/10/02 15:43:33.000.945,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 15:55:31.000.546,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 15:57:47.000.929,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmConfig.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/02 15:57:47.000.929,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmConfig.dfm=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.dfm</Transaction>
+    <Transaction>2023/10/09 13:56:33.000.609,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 13:57:34.000.692,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\uModbusReader.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/10 06:18:31.000.812,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\uModbusManager.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\uModbusReader.pas</Transaction>
+    <Transaction>2023/10/14 16:54:12.000.114,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 16:54:41.000.051,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\uPLCData.pas</Transaction>
+    <Transaction>2023/10/18 16:46:44.000.400,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/10/18 16:47:54.000.326,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmTriggerSetting.dfm=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.dfm</Transaction>
+    <Transaction>2023/10/18 16:47:54.000.326,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmTriggerSetting.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/11/13 10:21:21.000.397,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/11/13 10:27:09.000.282,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmAnalysis.pas</Transaction>
+    <Transaction>2023/11/13 10:27:09.000.282,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.dfm=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmAnalysis.dfm</Transaction>
+    <Transaction>2023/11/13 10:29:04.000.611,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmConfig.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\dlgConfig.pas</Transaction>
+    <Transaction>2023/11/13 10:29:04.000.611,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmConfig.dfm=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\dlgConfig.dfm</Transaction>
+    <Transaction>2023/11/13 10:29:28.000.071,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmTriggerSetting.dfm=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\dlgTriggerSetting.dfm</Transaction>
+    <Transaction>2023/11/13 10:29:28.000.071,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\frmTriggerSetting.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\dlgTriggerSetting.pas</Transaction>
+    <Transaction>2023/11/13 10:33:44.000.753,=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas</Transaction>
+    <Transaction>2023/11/13 10:35:41.000.401,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.dfm=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\dlgAnalyzeConfig.dfm</Transaction>
+    <Transaction>2023/11/13 10:35:41.000.401,D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\Unit1.pas=D:\Working\Projects\2023.08.30-Delphi-signal-display\PLC_Logger\dlgAnalyzeConfig.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="c:"/>
+    <File Path="c:\program files (x86)"/>
+    <File Path="c:\program files (x86)\embarcadero"/>
+    <File Path="c:\program files (x86)\embarcadero\studio"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32\DualList.PAS"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32\DualList.dfm"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32\OKCANCL2.PAS"/>
+    <File Path="c:\program files (x86)\embarcadero\studio\22.0\ObjRepos\DE\DelphiWin32\OKCANCL2.dfm"/>
+    <File Path="about.pas"/>
+    <File Path="about.dfm"/>
+    <File Path="ChildWin.pas"/>
+    <File Path="ChildWin.dfm"/>
+    <File Path="dlgConfig.pas"/>
+    <File Path="dlgConfig.dfm"/>
+    <File Path="dlgTriggerSetting.pas"/>
+    <File Path="dlgTriggerSetting.dfm"/>
+    <File Path="LogWin.pas"/>
+    <File Path="LogWin.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="uConfig.pas"/>
+    <File Path="uModbusManager.pas"/>
+    <File Path="uPLCData.pas"/>
+    <File Path="frmAnalysis.pas"/>
+    <File Path="frmAnalysis.dfm"/>
+    <File Path="dlgAnalyzeConfig.pas"/>
+    <File Path="dlgAnalyzeConfig.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
